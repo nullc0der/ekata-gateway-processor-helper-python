@@ -1,10 +1,13 @@
 [tool.poetry]
 name = "ekata-gateway-processor-helper"
-version = "0.1.6"
+version = "0.1.8"
 description = "Backend helper functions for ekata gateway processor"
 authors = ["EkataIO Wizard <support@ekata.io>"]
 license = "MIT"
 readme = "README.md"
+homepage = "https://ekata.io"
+repository = "https://gitlab.ekata.io/ekata-io-projects/ekata-gateway-processor-helper-python"
+keywords = ["crypto", "payment", "processor", "btc"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
